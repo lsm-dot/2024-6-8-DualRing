@@ -1,0 +1,7 @@
+Power of 2	Sign	Verify	Trace	Openproof	Openverify
+1	29	34	2	32	41
+2	47	40	1	40	47
+3	80	46	1	79	66
+4	137	60	1	67	71
+5	300	83	1	91	96
+6	475	138	1	139	143
